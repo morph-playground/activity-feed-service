@@ -1,0 +1,20 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: item-service
+  description: Express.js service for item management
+  tags:
+    - typescript
+    - backend
+    - template
+    - nodejs
+    - express
+spec:
+  type: service
+  lifecycle: production
+  owner: team-a
+  system: item-management-system
+  # Add other relevant spec fields like 'api', 'dependsOn', 'providesApis' as needed.
+  # For example, if it exposes an API:
+  # providesApis:
+  #   - item-service-api
