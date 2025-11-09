@@ -9,6 +9,37 @@ metadata:
     - template
     - nodejs
     - express
+    - microservice
+    - rest-api
+    - database
+    - mongodb
+    - postgresql
+    - docker
+    - kubernetes
+    - ci-cd
+    - testing
+    - jest
+    - eslint
+    - prettier
+    - swagger
+    - authentication
+    - authorization
+    - logging
+    - monitoring
+    - metrics
+    - health-check
+    - cors
+    - validation
+    - middleware
+    - async
+    - promises
+    - error-handling
+    - security
+    - rate-limiting
+    - caching
+    - redis
+    - api-gateway
+    - json
 spec:
   type: service
   lifecycle: production
